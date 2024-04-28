@@ -32,7 +32,7 @@ My portfolio website serves as a digital resume, providing an overview of my pro
 
 ## Usage
 
-To view my portfolio website, simply visit [https://www.anuragkhokhar.com](https://www.anuragkhokhar.com).
+To view my portfolio website, simply visit [https://anuragportfolio-p6ya5xi35-anurag-khokhars-projects.vercel.app/](Link).
 
 If you want to clone and run the website locally:
 
