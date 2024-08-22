@@ -43,6 +43,43 @@ const Items = [
   
   {
     id: 2,
+    mainImage: "/images/RoboSensy.png",
+    features: [
+      "Streamlined Clinical Operations: Built using the MERN stack, RoboSensy automates clinical workflows, reducing administrative overhead and enhancing the efficiency of healthcare processes.",
+      "Comprehensive Patient Management: The platform provides real-time monitoring and secure storage of patient data, facilitating better appointment scheduling and patient care management.",
+      "Data-Driven Insights: RoboSensy includes robust reporting features that offer actionable insights through detailed analytics on patient interactions and clinical performance, improving decision-making for healthcare providers.",
+      
+    ],
+    technologies: [
+      "React",
+      "TailwindCSS",
+      "ChartJs",
+      "React Hooks",
+      "React Icons",
+      "Framer Motion",
+      "Node JS",
+      "Express JS",
+      "Mongoose",
+      "MongoDB",
+      "Json Web Token",
+      "Bcryptjs",
+      "Nodemailer",
+      "Dontenv",
+      "Cors",
+      "Multer",
+      "Axios",
+      
+    ],
+    title: "RoboSensy WebSite",
+    description:
+      "The RoboSensy website, built using the MERN stack (MongoDB, Express, React, Node.js), is designed to streamline clinical processes by providing an intuitive platform for healthcare professionals to manage patient data, appointments, and clinical workflows. The website offers features like real-time patient monitoring, secure data storage, and detailed reporting to enhance operational efficiency and decision-making within clinical settings. By automating routine tasks and providing user-friendly interfaces, RoboSensy aims to reduce administrative burden and improve patient care.",
+    category: "HealthCare",
+    liveLink: "https://sensy.vercel.app/",
+    codeLink: "https://github.com/AnuragKhokhar/Sensy",
+  },
+
+  {
+    id: 3,
     mainImage: "/images/4fox.png",
     features: [
       "Integration of real-time news functionality using News API",
@@ -68,7 +105,7 @@ const Items = [
     codeLink: "https://github.com/AnuragKhokhar/4FoxLandingPge",
   },
   {
-    id: 3,
+    id: 4,
     mainImage: "/images/nft.png",
     technologies: [
       "HTML",
@@ -83,7 +120,7 @@ const Items = [
     codeLink: "https://github.com/AnuragKhokhar/NFT_LandingPage",
   },
   {
-    id: 4,
+    id: 5,
     mainImage: "/images/poke.png",
     features: [
       "Collection of all the pokemons(more that 1300)",
@@ -107,7 +144,7 @@ const Items = [
     codeLink: "https://github.com/AnuragKhokhar/Pokedex_Project",
   },
   {
-    id: 5,
+    id: 6,
     mainImage: "/images/quiz.png",
     features: [
       "Create quizzes",
@@ -129,7 +166,7 @@ const Items = [
   },
 
   {
-    id: 6,
+    id: 7,
     mainImage: "/images/pass.png",
     features: [
       "Customizable password generation",
@@ -150,7 +187,7 @@ const Items = [
   },
   
   {
-    id: 7,
+    id: 8,
     mainImage: "/images/weth.png",
     features: [
       "Real-time weather forecasts",
