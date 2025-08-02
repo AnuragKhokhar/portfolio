@@ -35,7 +35,7 @@ const Banner = () => {
               2000,
               "A Full-stack Developer",
               2000,
-              "A Front-end Developer",
+              "A .NET Developer",
               2000,
             ]}
             wrapper="div"
